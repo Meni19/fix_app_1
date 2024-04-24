@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Новое приложение</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="button_button">Кнопка</string>
+    <string name="activity_two">Активность 2</string>
+    <string name="back_button">Назад</string>
+</resources>

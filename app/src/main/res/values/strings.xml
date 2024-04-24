@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">New app</string>
-    <string name="app_name">Новое приложение</string>
+    <string name="hello_world">Hello, world!</string>
+    <string name="button_button">Button</string>
+    <string name="activity_two">Activity 2</string>
+    <string name="back_button">Back</string>
 </resources>
